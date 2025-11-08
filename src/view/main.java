@@ -1,4 +1,6 @@
 package view;
 
-public class main {
+import javax.swing.*;
+
+public class main extends JFrame {
 }
